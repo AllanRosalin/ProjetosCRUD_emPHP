@@ -1,0 +1,10 @@
+<form action = "/comida" method = 'post'>
+    <br>prato<br>
+    <input type = 'text' name = 'prato' value = ''>
+    <br>sobremesa<br>
+    <input type = 'text' name = 'sobremesa' value = ''>
+    <br>diversos<br>
+    <input type = 'text' name = 'diversos' value = ''>
+    <br>
+    <input type = 'submit' vale = 'Enviar'>
+</form>
